@@ -1,6 +1,8 @@
 
 ## Proyecto individual 2 de Julieta Ciare. 
 
+![imagen](https://www.istockphoto.com/es/foto/conceptos-de-l%C3%A1mpara-e-iluminaci%C3%B3n-gm622198334-108897473)
+
 # Introducción.
 
  Tengo que clasificar por el precio de las propiedades (cara o barata) de una inmobiliaria. Para luego predecir la categorización de baratas o caras con un modelo de Machine Learning. A continuación le estaré mostrando mi procedimiento.
