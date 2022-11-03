@@ -1,7 +1,7 @@
 
 ## Proyecto individual 2 de Julieta Ciare. 
 
-![imagen](https://media.istockphoto.com/photos/lamp-and-lighting-concepts-picture-id622198334?s=612x612)
+![imagen](https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/0/b/90b0048886_50162050_machine-learning1.jpg)
 
 # Introducción.
 
