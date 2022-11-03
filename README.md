@@ -1,7 +1,7 @@
 
 ## Proyecto individual 2 de Julieta Ciare. 
 
-![imagen](https://www.istockphoto.com/es/foto/conceptos-de-l%C3%A1mpara-e-iluminaci%C3%B3n-gm622198334-108897473)
+![imagen](https://media.istockphoto.com/photos/lamp-and-lighting-concepts-picture-id622198334?s=612x612)
 
 # Introducción.
 
