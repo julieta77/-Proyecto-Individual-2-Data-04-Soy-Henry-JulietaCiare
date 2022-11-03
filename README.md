@@ -20,7 +20,7 @@ A no tener nulos en la columna de  precios vuelvo a escribir la función de ante
 La variable categórica (property-type) con OneHotEncoder la convierto en numérica. Al pasar a numérica tengo un nuevo dataframe que luego lo conecto con mi dataframe original. ¿Porque elijo Property-type y no otra? Me pareció más relevante porque una casa no va a valer igual que un departamento por eso elegí esa. De todas la columnas del nuevo dataframe me quedo con las columnas Departamento e Casa porque tiene mayor correlación que la otras.
 
 # Paso 5
-Descartar y elegir columnas de dataframe principal e unirlas con el nuevo. Solo elijo las columnas que tiene mayor correlación para mí opinión. Luego verifico su correlación con el gráfico Heatmap. Después de varios intentos me quedo con 5 columnas y le conecto con dos columnas más  en total son 7. 
+Descartar y elegir columnas de dataframe principal e unirlas con el nuevo. Solo elijo las columnas que tiene mayor correlación para mí opinión. Luego verifico su correlación con el gráfico Heatmap.  
 
 # Paso 7
 Asignado variables Y solo para la columna Target y X para la demás.
